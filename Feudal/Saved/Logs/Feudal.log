@@ -987,3 +987,521 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.12-04.09.48:538][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2023.04.12-04.09.48:681][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 4034909D46D5A282BD7D6398716A5ED5BC789F9A), compiling. 
 [2023.04.12-04.11.38:968][  0]LogDerivedDataCache: C:/Users/Jarvin Eslao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.823 and deleted 0 files with total size 0 MiB. Scanned 1798 files in 1798 folders with total size 37 MiB.
+[2023.04.12-04.31.31:211][  0]LogShaderCompilers: Display: Worker (3/3) finished batch of 10 jobs in 62.695s, FTSRRejectShadingCS [WorkerTime=58.105s], FTonemapCS [WorkerTime=0.742s], FTonemapCS [WorkerTime=0.651s], FSelectPagesForHZBAndUpdateDirtyFlagsCS [WorkerTime=0.571s], FTonemapCS [WorkerTime=0.531s], FTonemapCS [WorkerTime=0.503s], FTonemapCS [WorkerTime=0.491s], FTonemapCS [WorkerTime=0.378s], FVirtualShadowMapProjectionCompositePS [WorkerTime=0.342s], FFilterVS [WorkerTime=0.228s]
+[2023.04.12-04.34.05:670][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 290F921C268193955312988EFC3BA44F85D38587), compiling. 
+[2023.04.12-04.34.05:708][  0]LogTurnkeySupport: Turnkey Device: Win64@PAR-OCC-065: (Name=PAR-OCC-065, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2023.04.12-04.34.11:038][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.12-04.34.11:038][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.12-04.34.11:038][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.12-04.34.11:038][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.12-04.34.11:038][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.12-04.34.11:145][  0]LogStaticMesh: Display: Building static mesh PlanarReflectionPlane...
+[2023.04.12-04.34.11:311][  0]LogStaticMesh: Built static mesh [0.27s] /Engine/EditorMeshes/PlanarReflectionPlane.PlanarReflectionPlane
+[2023.04.12-04.34.11:541][  0]LogNetVersion: Feudal 1.0.0, NetCL: 23058290, EngineNetVer: 30, GameNetVer: 0 (Checksum: 73671850)
+[2023.04.12-04.34.11:905][  0]LogStaticMesh: Display: Building static mesh SM_CineCam...
+[2023.04.12-04.34.12:072][  0]LogStaticMesh: Built static mesh [0.17s] /Engine/EditorMeshes/Camera/SM_CineCam.SM_CineCam
+[2023.04.12-04.34.12:128][  0]LogStaticMesh: Display: Building static mesh EditorCube...
+[2023.04.12-04.34.12:130][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/EditorCube.EditorCube
+[2023.04.12-04.34.12:142][  0]LogStaticMesh: Display: Building static mesh EditorSphere...
+[2023.04.12-04.34.12:177][  0]LogStaticMesh: Built static mesh [0.04s] /Engine/EditorMeshes/EditorSphere.EditorSphere
+[2023.04.12-04.34.12:185][  0]LogStaticMesh: Display: Building static mesh EditorPlane...
+[2023.04.12-04.34.12:187][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/EditorPlane.EditorPlane
+[2023.04.12-04.34.12:191][  0]LogStaticMesh: Display: Building static mesh EditorCylinder...
+[2023.04.12-04.34.12:196][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/EditorCylinder.EditorCylinder
+[2023.04.12-04.34.12:225][  0]LogStaticMesh: Display: Building static mesh EditorSkySphere...
+[2023.04.12-04.34.12:254][  0]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/EditorSkySphere.EditorSkySphere
+[2023.04.12-04.34.12:386][  0]LogUObjectArray: 20936 objects as part of root set at end of initial load.
+[2023.04.12-04.34.12:386][  0]LogUObjectAllocator: 5786376 out of 0 bytes used by permanent object pool.
+[2023.04.12-04.34.12:386][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.12-04.34.12:412][  0]LogSlate: Border
+[2023.04.12-04.34.12:412][  0]LogSlate: BreadcrumbButton
+[2023.04.12-04.34.12:412][  0]LogSlate: Brushes.Title
+[2023.04.12-04.34.12:412][  0]LogSlate: Default
+[2023.04.12-04.34.12:412][  0]LogSlate: Icons.Save
+[2023.04.12-04.34.12:412][  0]LogSlate: Icons.Toolbar.Settings
+[2023.04.12-04.34.12:412][  0]LogSlate: ListView
+[2023.04.12-04.34.12:412][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.04.12-04.34.12:412][  0]LogSlate: SoftwareCursor_Grab
+[2023.04.12-04.34.12:412][  0]LogSlate: TableView.DarkRow
+[2023.04.12-04.34.12:412][  0]LogSlate: TableView.Row
+[2023.04.12-04.34.12:412][  0]LogSlate: TreeView
+[2023.04.12-04.34.12:733][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F4C94481479A06509B349593A5C1336F | Instance: 3A7B6974464BE9497C428193EF570278 (PAR-OCC-065-11024).
+[2023.04.12-04.34.13:245][  0]LogPython: Using Python 3.9.7
+[2023.04.12-04.34.14:440][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.12-04.34.14:508][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.12-04.34.14:512][  0]LogUdpMessaging: Display: Added local interface '192.168.1.30' to multicast group '230.0.0.1:6666'
+[2023.04.12-04.34.14:732][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.04.12-04.34.14:765][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2023.04.12-04.34.15:008][  0]SourceControl: Source control is disabled
+[2023.04.12-04.34.15:011][  0]SourceControl: Source control is disabled
+[2023.04.12-04.34.15:022][  0]SourceControl: Source control is disabled
+[2023.04.12-04.34.15:028][  0]LogUProjectInfo: Found projects:
+[2023.04.12-04.34.16:073][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.12-04.34.16:113][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.12-04.34.16:138][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.12-04.34.16:138][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.12-04.34.16:198][  0]LogCollectionManager: Loaded 0 collections in 0.001123 seconds
+[2023.04.12-04.34.16:233][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Saved/Collections/' took 0.00s
+[2023.04.12-04.34.16:292][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/Developers/JarvinEslao/Collections/' took 0.00s
+[2023.04.12-04.34.16:301][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/Collections/' took 0.00s
+[2023.04.12-04.34.17:029][  0]LogEngine: Initializing Engine...
+[2023.04.12-04.34.17:088][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.04.12-04.34.17:111][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.04.12-04.34.17:114][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 0E9698C4697E872CBAA750A81F13B17C7CEA9AAD), compiling. Is special engine material.
+[2023.04.12-04.34.17:119][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: F94896208BB2C48320F28BA2B200D9B09C2924D7), compiling. Is special engine material.
+[2023.04.12-04.34.17:126][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: C69B3513A9BCE1B5877E8C1F14F444F2E516C54A), compiling. Is special engine material.
+[2023.04.12-04.34.17:131][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM6, Default, SM6 (DDC key hash: 6A6B6CA42A1CFE73D98380E44359090BD1019353), compiling. Is special engine material.
+[2023.04.12-04.34.17:137][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 7860C6F9C70533941C3C28714AFF4744F9ACB6BC), compiling. Is special engine material.
+[2023.04.12-04.34.17:141][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM6, Default, SM6 (DDC key hash: 8163769FA55201E2D8B7175BC0E56F9348F0AC32), compiling. Is special engine material.
+[2023.04.12-04.34.17:344][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.12-04.34.17:365][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.12-04.34.17:397][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.12-04.34.17:398][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.12-04.34.17:398][  0]LogInit: Texture streaming: Enabled
+[2023.04.12-04.34.17:440][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.1-23901901+++UE5+Release-5.1
+[2023.04.12-04.34.17:466][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.12-04.34.17:493][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.12-04.34.17:494][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.12-04.34.17:500][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2023.04.12-04.34.17:503][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2023.04.12-04.34.17:503][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2023.04.12-04.34.17:503][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2023.04.12-04.34.17:503][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2023.04.12-04.34.17:504][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.12-04.34.17:504][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.12-04.34.17:504][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-04.34.17:504][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-04.34.17:504][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-04.34.17:504][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-04.34.17:504][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.12-04.34.17:504][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.12-04.34.17:504][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.12-04.34.17:504][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-04.34.17:505][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.12-04.34.17:505][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.12-04.34.17:505][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.12-04.34.17:516][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.12-04.34.17:812][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (FxSound Audio Enhancer)
+[2023.04.12-04.34.17:812][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-04.34.17:818][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-04.34.17:819][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-04.34.17:819][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.04.12-04.34.17:819][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.12-04.34.17:835][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.12-04.34.17:835][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.04.12-04.34.17:835][  0]LogInit: FAudioDevice initialized.
+[2023.04.12-04.34.17:835][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.12-04.34.17:864][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.04.12-04.34.17:868][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.04.12-04.34.17:868][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.04.12-04.34.17:892][  0]LogLiveCoding: Display: First instance in process group "UE_Feudal_0x82ccd0b2", spawning console
+[2023.04.12-04.34.17:914][  0]LogLiveCoding: Display: Waiting for server
+[2023.04.12-04.34.19:548][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.04.12-04.34.19:576][  0]LogInit: Transaction tracking system initialized
+[2023.04.12-04.34.19:615][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2023.04.12-04.34.19:621][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.006271 seconds (Found 115 uncontrolled assets)
+[2023.04.12-04.34.19:669][  0]BlueprintLog: New page: Editor Load
+[2023.04.12-04.34.19:994][  0]LocalizationService: Localization service is disabled
+[2023.04.12-04.34.20:045][  0]TimingProfiler: Initialize
+[2023.04.12-04.34.20:045][  0]TimingProfiler: OnSessionChanged
+[2023.04.12-04.34.20:045][  0]LoadingProfiler: Initialize
+[2023.04.12-04.34.20:045][  0]LoadingProfiler: OnSessionChanged
+[2023.04.12-04.34.20:045][  0]NetworkingProfiler: Initialize
+[2023.04.12-04.34.20:046][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.12-04.34.20:046][  0]MemoryProfiler: Initialize
+[2023.04.12-04.34.20:046][  0]MemoryProfiler: OnSessionChanged
+[2023.04.12-04.34.27:376][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/' took 0.02s
+[2023.04.12-04.34.29:340][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2023.04.12-04.34.29:552][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.04.12-04.34.29:712][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.12-04.34.29:725][  0]SourceControl: Source control is disabled
+[2023.04.12-04.34.29:725][  0]LogUnrealEdMisc: Loading editor; pre map load, took 1496.987
+[2023.04.12-04.34.33:574][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/Games/UE_5.1/FeaturePacks/StarterContent.upack)
+[2023.04.12-04.34.35:745][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.04.12-04.34.36:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.04.12-04.34.36:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.04.12-04.34.36:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.04.12-04.34.36:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.04.12-04.34.36:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.04.12-04.34.38:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.04.12-04.34.38:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.04.12-04.34.38:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.04.12-04.34.38:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.04.12-04.34.38:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.04.12-04.34.38:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.04.12-04.34.39:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.04.12-04.34.39:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.04.12-04.34.39:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.04.12-04.34.39:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.04.12-04.34.40:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.04.12-04.34.40:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.04.12-04.34.40:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Fire01.uasset"
+[2023.04.12-04.34.40:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.04.12-04.34.40:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.04.12-04.34.40:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.04.12-04.34.40:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Light01.uasset"
+[2023.04.12-04.34.40:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.04.12-04.34.40:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Light02.uasset"
+[2023.04.12-04.34.40:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.04.12-04.34.41:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.04.12-04.34.41:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.04.12-04.34.41:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.04.12-04.34.41:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.04.12-04.34.41:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.04.12-04.34.42:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.04.12-04.34.42:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.04.12-04.34.43:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.04.12-04.34.43:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Steam01.uasset"
+[2023.04.12-04.34.44:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.04.12-04.34.44:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.04.12-04.34.44:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.04.12-04.34.44:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.04.12-04.34.44:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.04.12-04.34.44:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.04.12-04.34.44:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.04.12-04.34.44:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.04.12-04.34.45:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.04.12-04.34.46:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.04.12-04.34.46:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.04.12-04.34.47:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.04.12-04.34.47:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.04.12-04.34.47:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.04.12-04.34.47:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.04.12-04.34.48:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.04.12-04.34.48:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.04.12-04.34.48:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.04.12-04.34.48:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.04.12-04.34.48:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.04.12-04.34.48:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.04.12-04.34.48:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.04.12-04.34.48:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.04.12-04.34.48:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.04.12-04.34.48:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.04.12-04.34.48:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.04.12-04.34.49:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.04.12-04.34.49:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.04.12-04.34.49:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.04.12-04.34.49:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.04.12-04.34.49:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.04.12-04.34.49:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.04.12-04.34.49:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.04.12-04.34.49:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.04.12-04.34.49:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.04.12-04.34.49:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.04.12-04.34.49:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.04.12-04.34.49:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.04.12-04.34.49:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.04.12-04.34.49:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.04.12-04.34.49:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.04.12-04.34.49:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.04.12-04.34.49:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.04.12-04.34.49:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.04.12-04.34.49:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.04.12-04.34.49:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.04.12-04.34.49:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.04.12-04.34.49:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.04.12-04.34.49:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.04.12-04.34.49:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.04.12-04.34.49:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.04.12-04.34.49:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.04.12-04.34.50:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.04.12-04.34.50:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.04.12-04.34.50:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.04.12-04.34.50:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.04.12-04.34.50:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Maps/StarterMap.umap"
+[2023.04.12-04.34.50:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.04.12-04.34.51:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.04.12-04.34.51:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.04.12-04.34.51:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.04.12-04.34.51:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.04.12-04.34.51:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.04.12-04.34.51:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.04.12-04.34.51:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Door.uasset"
+[2023.04.12-04.34.51:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.04.12-04.34.51:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.04.12-04.34.51:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.04.12-04.34.51:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.04.12-04.34.51:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.04.12-04.34.51:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.04.12-04.34.51:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.04.12-04.34.51:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.04.12-04.34.51:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.04.12-04.34.51:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.04.12-04.34.51:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.04.12-04.34.51:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.04.12-04.34.51:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.04.12-04.34.51:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.04.12-04.34.51:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.04.12-04.34.51:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.04.12-04.34.51:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.04.12-04.34.51:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.04.12-04.34.52:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.04.12-04.34.52:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.04.12-04.34.52:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.04.12-04.34.52:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.04.12-04.34.52:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.04.12-04.34.52:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.04.12-04.34.52:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.04.12-04.34.52:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.04.12-04.34.52:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.04.12-04.34.52:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.04.12-04.34.52:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.04.12-04.34.52:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.04.12-04.34.52:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.04.12-04.34.52:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.04.12-04.34.52:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.04.12-04.34.52:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.04.12-04.34.52:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.04.12-04.34.52:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.04.12-04.34.52:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.04.12-04.34.52:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.04.12-04.34.52:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.04.12-04.34.53:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.04.12-04.34.53:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.04.12-04.34.53:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.04.12-04.34.53:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.04.12-04.34.53:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.04.12-04.34.53:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.04.12-04.34.53:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.04.12-04.34.53:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.04.12-04.34.53:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.04.12-04.34.53:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.04.12-04.34.53:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.04.12-04.34.53:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.04.12-04.34.53:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.04.12-04.34.53:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.04.12-04.34.53:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.04.12-04.34.54:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.04.12-04.34.54:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.04.12-04.34.54:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.04.12-04.34.54:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.04.12-04.34.54:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.04.12-04.34.54:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.04.12-04.34.54:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.04.12-04.34.54:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.04.12-04.34.54:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.04.12-04.34.54:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.04.12-04.34.54:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.04.12-04.34.54:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.04.12-04.34.54:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.04.12-04.34.54:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.04.12-04.34.54:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.04.12-04.34.55:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.04.12-04.34.55:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.04.12-04.34.55:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.04.12-04.34.55:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.04.12-04.34.55:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.04.12-04.34.55:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.04.12-04.34.55:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.04.12-04.34.55:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.04.12-04.34.55:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.04.12-04.34.55:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.04.12-04.34.55:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.04.12-04.34.55:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.04.12-04.34.55:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.04.12-04.34.55:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.04.12-04.34.55:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.04.12-04.34.56:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.04.12-04.34.56:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.04.12-04.34.56:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.04.12-04.34.56:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.04.12-04.34.56:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.04.12-04.34.56:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.04.12-04.34.56:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.04.12-04.34.56:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.04.12-04.34.56:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.04.12-04.34.56:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.04.12-04.34.56:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.04.12-04.34.56:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.04.12-04.34.57:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.04.12-04.34.57:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.04.12-04.34.57:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.04.12-04.34.57:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.04.12-04.34.57:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.04.12-04.34.57:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.04.12-04.34.57:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.04.12-04.34.57:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.04.12-04.34.58:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.04.12-04.34.58:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.04.12-04.34.58:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.04.12-04.34.58:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.04.12-04.34.58:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.04.12-04.34.58:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.04.12-04.34.58:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.04.12-04.34.58:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.04.12-04.34.58:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.04.12-04.34.58:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.04.12-04.34.58:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.04.12-04.34.58:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.04.12-04.34.59:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.04.12-04.34.59:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.04.12-04.34.59:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.04.12-04.34.59:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.04.12-04.34.59:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.04.12-04.34.59:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.04.12-04.34.59:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.04.12-04.34.59:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.04.12-04.34.59:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.04.12-04.34.59:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.04.12-04.34.59:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.04.12-04.34.59:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.04.12-04.34.59:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.04.12-04.34.59:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.04.12-04.34.59:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.04.12-04.34.59:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.04.12-04.34.59:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.04.12-04.34.59:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.04.12-04.34.59:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.04.12-04.34.59:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.04.12-04.34.59:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.04.12-04.35.00:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.04.12-04.35.00:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.04.12-04.35.00:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.04.12-04.35.01:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.04.12-04.35.01:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.04.12-04.35.01:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.04.12-04.35.01:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.04.12-04.35.01:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.04.12-04.35.01:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.04.12-04.35.01:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.04.12-04.35.01:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.04.12-04.35.01:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.04.12-04.35.02:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.04.12-04.35.02:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.04.12-04.35.02:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.04.12-04.35.02:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.04.12-04.35.02:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.04.12-04.35.02:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.04.12-04.35.02:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.04.12-04.35.02:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.04.12-04.35.02:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.04.12-04.35.02:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.04.12-04.35.02:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.04.12-04.35.02:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.04.12-04.35.03:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.04.12-04.35.03:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.04.12-04.35.03:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.04.12-04.35.03:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.04.12-04.35.03:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.04.12-04.35.03:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.04.12-04.35.03:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.04.12-04.35.03:110][  0]LogStaticMesh: Display: Building static mesh Floor_400x400...
+[2023.04.12-04.35.03:116][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.04.12-04.35.03:265][  0]LogStaticMesh: Display: Building static mesh Floor_400x400...
+[2023.04.12-04.35.03:269][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.04.12-04.35.05:927][  0]LogMeshUtilities: Finished distance field build in 1.9s - 49x49x49 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 92% occupied, 4 triangles, EditorCube
+[2023.04.12-04.35.07:801][  0]LogMeshUtilities: Finished distance field build in 1.4s - 35x35x49 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 98% occupied, 149 triangles, EditorCylinder
+[2023.04.12-04.35.08:725][  0]LogMeshUtilities: Finished distance field build in 5.5s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 682 triangles, PlanarReflectionPlane
+[2023.04.12-04.35.10:100][  0]LogMeshUtilities: Finished distance field build in 6.1s - 63x63x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 1322 triangles, EditorSphere
+[2023.04.12-04.35.10:545][  0]LogMeshUtilities: Finished distance field build in 1.8s - 77x77x7 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, Floor_400x400
+[2023.04.12-04.35.18:033][  0]LogMeshUtilities: Finished distance field build in 10.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2023.04.12-04.35.18:845][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.12-04.35.20:316][  0]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.535965 seconds
+[2023.04.12-04.35.20:339][  0]LogSerialization: UsePackageTrailer: 'true'
+[2023.04.12-04.35.20:506][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Architecture/Floor_400x400
+[2023.04.12-04.35.20:506][  0]LogSavePackage: Moving 'D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Saved/Floor_400x400666B87B34F759144576653AAEA7C1E44.tmp' to 'D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2023.04.12-04.35.20:540][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.71 sec
+[2023.04.12-04.35.20:556][  0]LogFeaturePack: Inserted 1 feature packs
+[2023.04.12-04.35.20:566][  0]Cmd: MAP LOAD FILE="D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.04.12-04.35.20:567][  0]LightingResults: New page: Lighting Build
+[2023.04.12-04.35.20:577][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-04.35.20:577][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-04.35.20:577][  0]MapCheck: New page: Map Check
+[2023.04.12-04.35.20:577][  0]LightingResults: New page: Lighting Build
+[2023.04.12-04.35.20:590][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.12-04.35.20:595][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.12-04.35.23:019][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.04.12-04.35.23:019][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.12-04.35.23:019][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.12-04.35.23:021][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.12-04.35.23:021][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.12-04.35.23:021][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.12-04.35.23:189][  0]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.04.12-04.35.23:189][  0]LogWorldPartition: Display: WorldPartition initialize took 168 ms
+[2023.04.12-04.35.23:348][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.12-04.35.23:363][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.12-04.35.23:363][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.12-04.35.23:364][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.516ms to complete.
+[2023.04.12-04.35.23:364][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 2.798
+[2023.04.12-04.35.23:419][  0]LogUnrealEdMisc: Total Editor Startup Time, took 1550.681
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: ================================================
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Total job queries 6268, among them cache hits 0 (0.00%)
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Tracking 6261 distinct input hashes that result in 4502 distinct outputs (71.91%)
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: RAM used: 37.26 MB (0.04 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.55%
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Shaders Compiled: 6261
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Jobs assigned 6264, completed 6261 (99.95%)
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Average time worker was idle: 0.34 s
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 740.11 s, longest 1458.25 s
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Job execution time: average 6.99 s, max 62.69 s
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 747.46 s, max 1459.66
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1469.23 s
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Jobs were issued in 639 batches (only local compilation was used), average 9.80 jobs/batch
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Average processing rate: 4.26 jobs/sec
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Total thread time: 4274.24 s
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Total thread preprocess time: 237.98 s
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Percentage time preprocessing: 5.57%
+[2023.04.12-04.35.23:419][  0]LogShaderCompilers: Display: Effective parallelization: 2.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 26.42 sec, max 58.10 sec, min 4.41 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 9.57 sec, max 20.62 sec, min 2.49 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 8.03 sec, max 11.42 sec, min 6.00 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.98 sec, max 4.63 sec, min 1.78 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:                                    FShadingFurnaceTestPassPS (compiled    1 times, average 2.92 sec, max 2.92 sec, min 2.92 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 8.51% of total time (compiled  150 times, average 2.42 sec, max 3.36 sec, min 1.80 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 3.71% of total time (compiled    6 times, average 26.42 sec, max 58.10 sec, min 4.41 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:                                                   FTonemapCS - 3.64% of total time (compiled  420 times, average 0.37 sec, max 1.20 sec, min 0.27 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 3.42% of total time (compiled  256 times, average 0.57 sec, max 1.35 sec, min 0.36 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 2.97% of total time (compiled  128 times, average 0.99 sec, max 2.37 sec, min 0.56 sec)
+[2023.04.12-04.35.23:420][  0]LogShaderCompilers: Display: ================================================
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:274][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.04.12-04.35.24:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-04.35.24:722][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-04.35.24:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-04.35.24:741][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-04.35.25:722][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.04.12-04.35.25:723][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.04.12-04.35.25:724][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.04.12-04.35.25:726][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.04.12-04.35.25:727][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.04.12-04.35.25:728][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.04.12-04.35.25:729][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.04.12-04.35.25:730][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.04.12-04.35.25:731][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.04.12-04.35.25:732][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.04.12-04.35.27:161][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.12-04.35.27:170][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.12-04.35.27:290][  0]LogSlate: Took 0.022587 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.12-04.35.27:508][  0]LogViewport: Scene viewport resized to 1247x647, mode Windowed.
+[2023.04.12-04.35.28:072][  0]LogSlate: Took 0.064844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.12-04.35.29:524][  0]LogStall: Startup...
+[2023.04.12-04.35.29:526][  0]LogStall: Startup complete.
+[2023.04.12-04.35.29:554][  0]LogLoad: (Engine Initialization) Total time: 1556.82 seconds
+[2023.04.12-04.35.29:554][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.12-04.35.29:718][  0]LogEditorViewport: Clicking Background
+[2023.04.12-04.35.29:720][  0]LogEditorViewport: Clicking Background
+[2023.04.12-04.35.29:721][  0]LogEditorViewport: Clicking Background
+[2023.04.12-04.35.29:756][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2023.04.12-04.35.29:757][  0]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.04.12-04.35.30:218][  0]LogAssetRegistry: Asset discovery search completed in 1545.6191 seconds
+[2023.04.12-04.35.30:247][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2023.04.12-04.35.30:319][  0]LogContentStreaming: Texture pool size now 400 MB
+[2023.04.12-04.35.30:723][  0]LogAutomationController: Ignoring very large delta of 17429185.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.12-04.35.31:501][  2]LogAudioMixer: Warning: Audio Thread Command from SetListenerTransforms()() took 13.174000 milleseconds to execute
+[2023.04.12-04.35.31:566][  2]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.12-04.36.54:040][323]LogShaderCompilers: Display: Worker (3/3) finished batch of 10 jobs in 60.014s, FRenderVolumetricCloudRenderViewCS [WorkerTime=9.738s], FRenderVolumetricCloudRenderViewCS [WorkerTime=9.064s], TVoxelizeVolumePS<VMode_Object_Box> [WorkerTime=7.323s], TBasePassVSFNoLightMapPolicy [WorkerTime=7.174s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=6.280s], TVoxelizeVolumeVS<VMode_Primitive_Sphere> [WorkerTime=5.758s], FVolumetricCloudShadowPS [WorkerTime=5.395s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=3.988s], FDebugViewModeVS [WorkerTime=3.144s], FLumenCardPS<false> [WorkerTime=1.918s]
+[2023.04.12-04.37.28:530][ 29]LogShaderCompilers: Display: Worker (2/3) finished batch of 10 jobs in 92.228s, FRenderVolumetricCloudRenderViewCS [WorkerTime=14.624s], FRenderVolumetricCloudRenderViewCS [WorkerTime=13.696s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.400s], FCloudRenderViewPS001false [WorkerTime=8.788s], FCloudRenderViewPS000true [WorkerTime=8.098s], FRenderVolumetricCloudRenderViewCS [WorkerTime=8.018s], FDebugViewModePS [WorkerTime=7.836s], FRenderVolumetricCloudRenderViewCS [WorkerTime=7.556s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.867s], FCloudRenderViewPS100false [WorkerTime=6.055s]
+[2023.04.12-04.37.29:997][147]LogShaderCompilers: Display: Worker (1/3) finished batch of 10 jobs in 90.608s, FRenderVolumetricCloudRenderViewCS [WorkerTime=14.455s], FRenderVolumetricCloudRenderViewCS [WorkerTime=12.009s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.573s], FCloudRenderViewPS011false [WorkerTime=9.616s], FRenderVolumetricCloudRenderViewCS [WorkerTime=8.701s], FRenderVolumetricCloudRenderViewCS [WorkerTime=8.226s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=7.790s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.909s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.468s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=4.415s]
