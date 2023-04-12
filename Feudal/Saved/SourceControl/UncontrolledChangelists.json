@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/3D/Hooman.uasset",
+				"D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/3D/lambert66SG.uasset",
+				"D:/UNREAL ENGINE/git/Feudal_Narrasoft_Folio/Feudal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YK/20A6JDFG0E19REEOBF365J.uasset"
 			]
 		}
 	]

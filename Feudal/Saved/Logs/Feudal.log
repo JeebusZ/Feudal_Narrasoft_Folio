@@ -1166,3 +1166,38 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.04.12-06.07.29:957][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
 [2023.04.12-06.07.29:964][  0]LogContentStreaming: Texture pool size now 400 MB
 [2023.04.12-06.07.30:397][  3]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.12-06.09.21:041][340]LogDerivedDataCache: C:/Users/Jarvin Eslao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.215 and deleted 0 files with total size 0 MiB. Scanned 5116 files in 5062 folders with total size 208 MiB.
+[2023.04.12-06.16.04:301][694]Cmd: DELETE
+[2023.04.12-06.16.04:316][694]Cmd: ACTOR DELETE
+[2023.04.12-06.16.04:680][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.12-06.16.04:882][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.12-06.16.04:884][694]LogEditorActor: Deleted 1 Actors (0.271 secs)
+[2023.04.12-06.16.07:469][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.04.12-06.16.08:564][925]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.12-06.16.08:610][925]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/3D/lambert66SG.lambert66SG
+	Asset Type: Material
+	Asset Name: /Game/3D/Hooman.Hooman
+	Asset Type: StaticMesh
+[2023.04.12-06.16.09:811][925]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3D/Hooman) ...
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: ================================================
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: Total job queries 142, among them cache hits 24 (16.90%)
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: Tracking 118 distinct input hashes that result in 93 distinct outputs (78.81%)
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: RAM used: 0.97 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.04.12-06.16.10:111][925]LogShaderCompilers: Display: ================================================
+[2023.04.12-06.16.10:353][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.12-06.16.10:364][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.04.12-06.16.10:374][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.04.12-06.16.12:591][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.12-06.16.12:696][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.04.12-06.16.12:706][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.04.12-06.16.12:719][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.12-06.16.12:733][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms
+[2023.04.12-06.16.13:869][157]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_4CEDFB6D9E0C6A7801_1242511536 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YK/20A6JDFG0E19REEOBF365J.PackageMetaData in its package
+[2023.04.12-06.16.13:870][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.04.12-06.16.13:884][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
